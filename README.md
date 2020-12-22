@@ -5,7 +5,7 @@ one step
 Cd PhishingEmail-TELEGRAMSPAMbrutal
 
 
-$python ayo.py
+$python3 ayo.py
 
 
 thank
