@@ -1,11 +1,11 @@
 # PhishingEmail-TELEGRAMSPAMbrutal
-For users, please understand well how to use it .. Script Using Python3
+For users, please understand well how to use it .. Script Using Python
 one step
 
 Cd PhishingEmail-TELEGRAMSPAMbrutal
 
 
-$python3 ayo.py
+$python ayo.py
 
 
 thank
